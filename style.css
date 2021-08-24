@@ -1,0 +1,11 @@
+.body{
+    margin: 0;
+    padding: 0;
+}
+.middlepage{
+    position:relative;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    flex-direction: row;
+}
